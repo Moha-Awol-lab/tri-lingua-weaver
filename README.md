@@ -1,4 +1,4 @@
-# React + Vite + shadcn/ui Starter Template
+j# React + Vite + shadcn/ui Starter Template
 
 A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
 
@@ -118,3 +118,4 @@ Feel free to submit issues and enhancement requests!
 ---
 
 Built with ❤️ by the Dala team to help developers build faster and smarter.
+86c777fe.mydala.app
