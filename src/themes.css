@@ -1,0 +1,72 @@
+:root {
+  --background: 0 0% 100%;
+  --foreground: 240 10% 3.9%;
+  --card: 0 0% 100%;
+  --card-foreground: 240 10% 3.9%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 10% 3.9%;
+  --primary: 142.1 76.2% 36.3%;
+  --primary-foreground: 355.7 100% 97.3%;
+  --secondary: 240 4.8% 95.9%;
+  --secondary-foreground: 240 5.9% 10%;
+  --muted: 240 4.8% 95.9%;
+  --muted-foreground: 240 3.8% 46.1%;
+  --accent: 240 4.8% 95.9%;
+  --accent-foreground: 240 5.9% 10%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 5.9% 90%;
+  --input: 240 5.9% 90%;
+  --ring: 142.1 76.2% 36.3%;
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: 240 10% 3.9%;
+  --foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 142.1 70.6% 45.3%;
+  --primary-foreground: 144.4 96.6% 11.4%;
+  --secondary: 240 3.7% 15.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --ring: 142.1 70.6% 45.3%;
+}
+
+.theme-emerald {
+  --background: 150 20% 98%;
+  --foreground: 160 50% 10%;
+  --card: 0 0% 100%;
+  --primary: 160 84% 33%;
+  --primary-foreground: 150 20% 98%;
+  --muted: 160 20% 94%;
+  --border: 160 20% 90%;
+}
+
+.theme-sepia {
+  --background: 35 30% 95%;
+  --foreground: 25 30% 15%;
+  --card: 35 30% 98%;
+  --primary: 25 70% 40%;
+  --primary-foreground: 35 30% 98%;
+  --muted: 35 20% 88%;
+  --border: 35 20% 85%;
+}
+
+[dir="rtl"] {
+  font-family: 'Amiri', 'Noto Sans Arabic', serif;
+}
+
+[dir="ltr"] {
+  font-family: 'Inter', 'Noto Sans Ethiopic', sans-serif;
+}
